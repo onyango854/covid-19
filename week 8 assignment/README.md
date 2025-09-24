@@ -4,13 +4,14 @@ This project analyzes the CORD-19 dataset containing metadata about COVID-19 res
 ## Project Structure
 Frameworks_Assignment/
 │
-├── app.py # Main Streamlit application
-├── data_exploration.py # Data loading and exploration
-├── data_cleaning.py # Data cleaning and preparation
+├── app.py                    # Main Streamlit application
+├── data_exploration.py       # Data loading and exploration
+├── data_cleaning.py          # Data cleaning and preparation
 ├── analysis_visualization.py # Data analysis and visualization
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── metadata.csv # Dataset (not included in repo due to size)
+├── requirements.txt          # Python dependencies
+├── README.md                 # Project documentation
+└── metadata.csv              # Dataset (not included in repo due to size)
+
 
 ## Installation and Setup
 
